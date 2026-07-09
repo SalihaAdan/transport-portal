@@ -197,4 +197,4 @@ Deployed on Streamlit Community Cloud.
 
 ## Demo
 
-🎬 Loom demo: [link]
+🎬 Video demo: [link](https://github.com/SalihaAdan/raahshumar-demand-driver-transport-schedular/blob/master/demo/RaahShumar%20-%20Demand%20Driven%20Transport%20Schedular.md)
